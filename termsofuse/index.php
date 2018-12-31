@@ -41,7 +41,8 @@ include(BASE_PATH.'/lib/head.php');
 					<li>we reserve the right at any time to change the server configuration and the functions offered with it in whole or in part without warning; the user does not have any claim to certain 
 						functions or services</li>
 					<li>uploaded files and/or information will not be disclosed by us to third parties as long as this is not required by the court</li>
-					<li>by uploading files that is exchanged via client software, you grant us an unrestricted right of use; after 30 days the files are usually deleted automatically without warning</li>
+					<li>by uploading files that is exchanged via client software, you grant us an unrestricted right of use. This is necessary to make backups and delete this files after 30 days automatically 
+						without warning.</li>
 					<li>the user is not entitled to the storage of his uploaded data, especially if violations of law and/or court decisions preclude and/or prohibit the provision</li>
 					<li>the user is liable for his uploaded data by himself, we expressly exclude liability</li>
 					<li>the uploaded data must be free from third party rights, in particular copyright, trademark or personal rights, may not contain any contents that are unconstitutional or may glorify, 
