@@ -11,7 +11,7 @@ curl_close($ch);
 // Decode the JSON string
 $data = json_decode($json);
 
-//$downloadlink = $data->assets[0]->browser_download_url;
-$downloadlink = 'https://play.google.com/store/apps/details?id=de.pixart.messenger';
+$downloadlinkAPK = $data->assets[0]->browser_download_url;
+$downloadlinkPS = 'https://play.google.com/store/apps/details?id=de.pixart.messenger';
 $size = formatBytes($data->assets[0]->size);
 ?>

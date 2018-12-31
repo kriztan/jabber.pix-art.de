@@ -12,6 +12,29 @@ include(BASE_PATH.'/lib/head.php');
 					<a id="willkommen" class="anchor" href="#willkommen" aria-hidden="true"><span aria- hidden="true" class="octicon octicon-link"></span></a>Willkommen
 				</h2>
 				Seit 20. Feb. 2014 betreiben wir unseren eigenen privaten und kostenfreien XMPP-Dienst. Unser Server steht in Deutschland, in der Nähe von Frankfurt/Main bei uvensys im Rechenzentrum.
+				<div class="download">
+					<a href="<?php echo $downloadlinkAPK; ?>" target="_blank" class="button">
+						<div class="button">
+							<small>
+								APK&nbsp;
+							</small>
+							Download&nbsp;
+							<small>
+								(<?php echo $size;?>)
+							</small>
+						</div>
+					</a>
+					<a href="<?php echo $downloadlinkPS; ?>" target="_blank" class="button">
+						<div class="button">
+							<small>
+								Google PlayStore&nbsp;
+							</small>
+							Download&nbsp;
+							<small>
+								(<?php echo $size;?>)
+							</small>
+						</div>
+					</a>
 				<br><br><totop><a href="#top"><i class="material-icons">arrow_drop_up</i>nach oben</a></totop><hr>
 				<h2>
 					<a id="sicherheit" class="anchor" href="#sicherheit" aria- hidden="true"><span aria-hidden="true" class="octicon octicon- link"></span></a>Sicherheit und Datenschutz
