@@ -201,5 +201,4 @@ include(BASE_PATH.'/lib/head.php');
 			</div>
 		</div>
 	</body>
-	<?php include(BASE_PATH.'/lib/conversejs.php'); ?>
 </html>

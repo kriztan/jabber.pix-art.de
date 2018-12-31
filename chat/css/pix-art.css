@@ -1,0 +1,37 @@
+#conversejs.converse-fullscreen .chatbox .box-flyout {
+	background-color: #2e4272 !important;
+}
+
+#conversejs.converse-fullscreen .flyout {
+	border-top: 0.8em solid ##2e4272 !important;
+	border: 1.2em solid #2e4272 !important;
+}
+
+#conversejs .chat-head.chat-head-chatbox {
+	background-color: #2e4272 !important;
+}
+
+#conversejs .chatbox .sendXMPPMessage .chat-toolbar {
+	border-top: 4px solid #2e4272 !important;
+	color: #2e4272 !important;
+}
+
+#conversejs .message.date-separator .separator {
+	border: 0.5px solid #2e4272 !important;
+}
+
+#conversejs ::selection {
+    background-color: #d7deee !important;
+}
+
+#conversejs .chatbox .sendXMPPMessage .chat-toolbar .fa, #conversejs .chatbox .sendXMPPMessage .chat-toolbar .fa:hover, #conversejs .chatbox .sendXMPPMessage .chat-toolbar .far, #conversejs .chatbox .sendXMPPMessage .chat-toolbar .far:hover, #conversejs .chatbox .sendXMPPMessage .chat-toolbar .fas, #conversejs .chatbox .sendXMPPMessage .chat-toolbar .fas:hover {
+    color: #2e4272 !important;
+}
+
+#conversejs .chatbox .sendXMPPMessage .chat-toolbar .fa, #conversejs .chatbox .sendXMPPMessage .chat-toolbar .fa:hover, #conversejs .chatbox .sendXMPPMessage .chat-toolbar .far, #conversejs .chatbox .sendXMPPMessage .chat-toolbar .far:hover, #conversejs .chatbox .sendXMPPMessage .chat-toolbar .fas, #conversejs .chatbox .sendXMPPMessage .chat-toolbar .fas:hover {
+    color: #2e4272 !important;
+}
+
+#conversejs .chatbox .sendXMPPMessage .send-button {
+    background-color: #2e4272 !important;
+}
