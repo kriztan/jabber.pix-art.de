@@ -2,11 +2,16 @@
 	<meta charset='utf-8'>
 	<meta http-equiv="X-UA-Compatible" content="chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link	href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+	<meta name="description" content="Pix-Art Messenger - an open source XMPP/Jabber client for Android 4.1+" />
+	<meta property="og:title" content="Pix-Art Messenger" />
+	<meta property="og:description" content="Pix-Art Messenger - an open source XMPP/Jabber client for Android 4.1+" />
+	<meta property="og:image" content="https://jabber.pix-art.de/images/logo_big.png" />
+	<!--<link	href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>-->
 	<link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen">
 	<link rel="stylesheet" type="text/css" href="/stylesheets/github-light.css" media="screen">
 	<link	rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print">
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link	rel="stylesheet" type="text/css" href="/stylesheets/material-icons.css">
+	<!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
 	<!--icons beginn-->
 	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
