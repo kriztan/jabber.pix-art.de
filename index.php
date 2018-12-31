@@ -140,73 +140,12 @@ include(BASE_PATH.'/lib/head.php');
 				<h2>
 					<a id="privacypolicy" class="privacypolicy" href="#rights" aria-hidden="true"><span aria- hidden="true" class="octicon octicon-link"></span></a>Was wir von dir speichern und was nicht
 				</h2>
-				Fett geschriebene Zeilen sind für den Betrieb erforderlich.
-				<h3>Profildaten</h3>
-				<ul>
-					<li><b>Deinen Benutzernamen und einen Hashwert deines Passwortes</b></li>
-					<li>Weitere Daten, wie eMail-Adressen, Vor- und Zunamen, Web-Adressen, aber nur dann, wenn du diese selbst eingibst</li>
-				</ul>
-				<h3>Nachrichten</h3>
-				<ul>
-					<li><b>Offline-Nachrichten, damit du sie erhältst, wenn du das nächste mal online gehst. Die Nachrichten werden gelöscht sobald du dich eingeloggt hast.</b></li>
-					<li>Das Nachrichtenarchiv (MAM) ist standardmäßig aktiviert, damit du Nachrichten auch von anderen Geräten oder zu einem späteren Zeitpunkt empfangen kannst (z.B. beim Wechsel eines Handys).
-						Für OMEMO mit mehreren Geräten ist die Archivfunktion ebenfalls erfoderlich. Du kannst die Archivierungseinstellungen in deinem Profil im Messenger konfigurieren. Das Nachrichtenarchiv löscht
-					automatisch Nachrichten, die älter als 30 Tage sind.</li>
-				</ul>
-				<h3>Dateien</h3>
-				<ul>
-					<li><b>sämtliche Bilder/Dateien, die du über den Messenger verschickst werden für den späteren Empfang 30 Tage lang gespeichert.</b></li>
-				</ul>
-				<h3>Sonstige Daten</h3>
-				<ul>
-					<li><b>Eine Liste deiner Kontakte und Gruppenzugehörigkeit (Roster, Buddylist). Du entscheidest im Messenger, wer auf dieser Liste steht und wer gelöscht wird.</b></li>
-					<li><b>Profilbilder, öffentliche OMEMO Schlüssel</b></li>
-					<li><b>Wann du dich das letzte Mal ein- oder ausgeloggt hast. Damit werden inaktive Profile erkannt und bei einer 180-tägigen Inaktivität ohne Vorwarnung dauerhaft gelöscht.</b></li>
-				</ul>
-				<h3>Was wir nicht speichern</h3>
-				<ul>
-					<li>Deine IP Adresse</li>
-				</ul>
+				Informationen zum Datenschutz und welche Daten wir speichern bzw. von dir brauchen findest du unter dem Menüpunkt <a href="/privacy">Privacy Policy</a>.
 				<br><totop><a href="#top"><i class="material-icons">arrow_drop_up</i>nach oben</a></totop><hr>
 				<h2>
 					<a id="Nutzungsbedingungen" class="anchor" href="#nutzungsbedingung" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Nutzungsbedingungen
 				</h2>
-				Bei Fehlern und/oder per Gesetz, Gerichtsbeschluss oder vergleichbaren Anordnungen mit Gesetzescharakter, für ungültig erklärte Passagen der folgenden Nutzungsbedigungen behalten bis auf 
-				Diese alle anderen Passagen ihre Gültigkeit.
-				<h3>Nutzung der Pix-Art Messenger - App (Android-App)</h3>
-				<ul>
-					<li>mit dem Download unserer App stimmst du diesen Nutzungsbedingungen zu</li>
-					<li>die App ist kostenfrei, darf kopiert, verändert und an Dritte unentgeltlich verteilt werden (siehe auch Punkt <a href="#Lizenz">Lizenz</a>)</li>
-					<li>die Nutzung der App geschieht auf eigene Verantwortung, wir prüfen den Quellcode nach bestem Wissen und Gewissen auf Fehler und schadhaften Code, dennoch können Fehler nicht 
-						100%ig ausgeschlossen werden, für eventuell auftretende Schäden und/oder Datenverlust in jeglicher Form, die auf die App zurückzuführen sind, haften wir nicht</li>
-						<li>soweit ein Haftungsausschluss nicht in Betracht kommt, haften wir lediglich für grobe Fahrlässigkeit und Vorsatz</li>
-				</ul>
-				<h3>Nutzung des Pix-Art Messenger - Dienstes (XMPP-Server-Dienste)</h3>
-				<ul>
-					<li>mit dem Erstellen eines Accounts bzw. Profils auf unserem Server stimmst du diesen Nutzungsbedingungen zu</li>
-					<li>die angebotenen Server-Dienste sind kostenfrei; der Nutzer hat keinerlei Vergütungen (Honorare, Lizenzgebühren, Aufwendungsentschädigungen oder Ähnliches) an uns zu leisten</li>
-					<li>die Nutzung der Server-Dienste geschehen auf eigene Verantwortung, wir prüfen die Serverkonfiguration nach bestem Wissen und Gewissen auf Fehler und Sicherheitslücken, dennoch können Diese nicht 
-						100%ig ausgeschlossen werden, für eventuell auftretende Schäden und/oder Datenverlust in jeglicher Form, die auf die Nutzung unserer Server-Dienste zurückzuführen sind, haften wir nicht</li>
-					<li>der Server wird privatfinanziert, der Nutzer hat grundsätzlich kein Recht oder Anspruch auf ein dauerhaftes Benutzerprofil auf unserem Server</li>
-					<li>inaktive Benutzerprofile werden nach 180 Tagen Inaktivität automatisch ohne Vorwarnung gelöscht, damit werden auch von dir hochgeladenen, dem Benutzerprofil zuordenbare Daten 
-						vollständig oder teilweise gelöscht; einen Anspruch auf vollständige Löschung der zum Benutzerprofil zugehörigen Daten nach Löschung des Profils besteht nicht</li>
-					<li>der Nutzer hat das Recht sein Benutzerkonto nach Kontaktaufnahme durch uns löschen zu lassen; einen Anspruch auf vollständige Löschung der zum Benutzerprofil zugehörigen Daten nach Löschung 
-						des Profils besteht nicht</li>
-					<li>der Nutzer hat das Recht sämtliche von ihm gespeicherten Daten nach Kontaktaufnahme mit uns einzusehen und sich zusenden zu lassen, sofern der Aufwand für den Versand bzw. das Zusammenstellen
-						der Daten zumutbar ist</li>
-					<li>wir behalten uns jederzeit das Recht vor, den Server-Dienst ganz, teilweise oder zeitweilig ohne Vorwarnung abzuschalten und/oder alle oder einzelne Benutzerprofile ohne Vorwarnung zu löschen</li>
-					<li>wir behalten uns jederzeit das Recht vor, die Server-Konfiguration und die damit angebotenen Funktionen ganz oder teilweise ohne Vorwarnung zu verändern; einen Anspruch auf bestimmte Funktionen, 
-						Dienste oder Leistungen hat der Nutzer nicht</li>
-					<li>hochgeladene Daten und/oder Informationen werden von uns nicht an Dritte weitergegeben solange dies nicht gerichtlich gefordert wird</li>
-					<li>mit dem Hochladen von Daten, die über den Messenger ausgetauscht werden, räumst du uns ein uneingeschränktes Nutzungsrecht ein, nach 30 Tagen werden die Dateien im Regelfall automatisch 
-						ohne Vorwarnung gelöscht</li>
-					<li>der Nutzer hat keinen Anspruch auf eine Speicherung seiner hochgeladenen Daten, insbesondere dann nicht, wenn Rechtsverletzungen und/oder gerichtliche Beschlüsse die Bereitstellung
-					  ausschließen und/oder verbieten</li>
-					<li>der Nutzer haftet für seine hier hochgeladenen Daten selbst, wir schließen eine Haftung ausdrücklich aus</li>
-					<li>die hochgeladenen Daten müssen frei von Rechten Dritter, insbesondere Urheber-, Marken- oder Persönlichekeitsrechten sein, dürfen keine Verfassungswidrigen Inhalte aufweisen oder sonstige Straftaten
-						verherrlichen, darstellen und/oder zu Straftaten aufrufen</li>
-					<li>soweit ein Haftungsausschluss nicht in Betracht kommt, haften wir lediglich für grobe Fahrlässigkeit und Vorsatz</li>
-				</ul>
+				Unsere Nutzungsbedingungen findest du unter dem Menüpunkt <a href="/termsofuse">Terms of Use</a>.
 				<br><totop><a href="#top"><i class="material-icons">arrow_drop_up</i>nach oben</a></totop><hr>
 				<h2>
 					<a id="entwickler" class="anchor" href="#entwickler" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Entwickler
