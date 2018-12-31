@@ -24,14 +24,14 @@ include(BASE_PATH.'/lib/head.php');
 				Damit lassen sich Nachrichten auf dem Sendergerät verschlüsseln und nur durch
 				das für den Empfang bestimmte Empfangsgerät entschlüsseln.
 				<br>
-				Seit Version 1.20.0 wird ein Hinweis direkt im Chat angezeigt, sofern du unverschlüsselt schreibst und eine Verschlüsselung möglich ist. 
+				Seit Version 1.20.0 wird ein Hinweis direkt im Chat angezeigt, sofern du unverschlüsselt schreibst und eine Verschlüsselung möglich ist.
 				<br>
 				Für eine Registrierung benötigst du nur einen Nicknamen und ein Passwort, damit bleibst du in der Nutzerdatenbank anonym. Wir sammeln keine eMail-Adressen, Telefonnummern usw. und geben diese
 				Daten selbstverständlich auch nicht an Dritte weiter.
 				<br>
 				Wie unser Server bezüglich der Verbindungssicherheit bewertet wird, könnt Ihr bei xmpp.net testen lassen. Derzeit sieht es bei uns so aus:<br>
 				<a href='https://check.messaging.one/result.php?domain=pix-art.de&amp;type=client'>
-  				<img src='https://check.messaging.one/badge.php?domain=pix-art.de' alt='IM observatory score' />
+					<img src='https://check.messaging.one/badge.php?domain=pix-art.de' alt='IM observatory score' />
 				</a>
 				<br><br><totop><a href="#top"><i class="material-icons">arrow_drop_up</i>nach oben</a></totop><hr>
 				<h2>
@@ -59,9 +59,9 @@ include(BASE_PATH.'/lib/head.php');
 					<a id="screenshots" class="anchor" href="#screenshots" aria- hidden="true"><span aria-hidden="true" class="octicon octicon- link"></span></a>Screenshots
 				</h3>
 				<img class="screenshot" src="/images/screenshots/1.jpg" title="Willkommensbildschirm">
-				<img class="screenshot" src="/images/screenshots/2.jpg" title="Konto erstellen">
+				<img class="screenshot" src="/images/screenshots/2.jpg" title="Profil erstellen">
 				<br>
-				<img class="screenshot" src="/images/screenshots/3.jpg" title="Konto erstellen">
+				<img class="screenshot" src="/images/screenshots/3.jpg" title="Profil erstellen">
 				<img class="screenshot" src="/images/screenshots/4.jpg" title="Chatansicht">
 				<br>
 				<img class="screenshot" src="/images/screenshots/5.jpg" title="Kontakt-Details">

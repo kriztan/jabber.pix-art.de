@@ -26,7 +26,7 @@ if (empty($_GET['user']) || empty($_GET['domain'])) {
 				<p>Falls du Android Nutzer bist, lade dir den <b><a href="<?php echo $downloadlink; ?>" target="_blank">Pix-Art Messenger</a></b>
 					herunter und erstelle dein Benutzerprofil, damit du alle Funktionen nutzen kannst. Gehe anschlie&szlig;end
 				zur&uuml;ck zu dieser Seite und f&uuml;ge <b><?php echo $user; ?></b> zu deiner Kontaktliste hinzu, indem du folgenden Link anklickst:</p>
-					<a href="xmpp:<?php echo $user;?>@<?php echo $domain.$preauth; ?>"><button type="button"><?php echo $user; ?> hinz&uuml;gen</button></a>
+					<a href="xmpp:<?php echo $user;?>@<?php echo $domain.$preauth; ?>"><button type="button"><?php echo $user; ?> hinzuf&uuml;gen</button></a>
 					<p>
 						<p>Weitere Informationen &uuml;ber Pix-Art Messenger findest du auf <a href="https://jabber.pix-art.de">jabber.pix-art.de</a></p>
 					</section>
